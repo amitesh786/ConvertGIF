@@ -26,8 +26,8 @@ A simple web application that allows users to upload MOV files and convert them 
 - 5️⃣ Once done, download the converted file.
 
 ## 🔧 Setup (For Developers)
-- Clone the repository: `git clone https://github.com/amitesh786/PDF-Merger.git`
-- cd PDF-Merger
+- Clone the repository: `git clone https://github.com/amitesh786/ConvertGIF.git`
+- cd ConvertGIF
 - Open index.html in a browser and start using the tool!
 
 ## 📜 License
