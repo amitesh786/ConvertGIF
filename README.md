@@ -1,5 +1,5 @@
 # 🎬 MOV to GIF & MP4 Converter
-A simple web application that allows users to upload MOV files and convert them into GIF or MP4 format using JavaScript and FFmpeg.js.
+A lightweight web application that enables users to upload MOV files and seamlessly convert them into GIF or MP4 format using JavaScript and FFmpeg.js.
 
 ## 🚀 Features
 - ✅ Convert MOV files to **MP4** or **GIF** formats.  
