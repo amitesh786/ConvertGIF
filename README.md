@@ -8,12 +8,6 @@ A lightweight web application that enables users to upload MOV files and seamles
 - Fast and efficient **FFmpeg.js** for video conversion.  
 - Download the converted file instantly.
 
-## File Structure
-- │── index.html           # Main HTML file
-- │── index.js             # JavaScript file for conversion
-- │── index.css            # Stylesheet
-- │── README.md            # Project documentation
-
 ## Technologies Used
 - **HTML5, CSS3, Bootstrap** – For a responsive UI.  
 - **JavaScript (FFmpeg.js)** – For video conversion.
